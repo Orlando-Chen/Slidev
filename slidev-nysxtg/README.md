@@ -7,3 +7,5 @@
 先npm install，然后npm run build，然后就可以npm run dev了。
 
 之后就可以在本地3030开始了。
+
+- **PS：** -上传的版本还没有install npm过。
