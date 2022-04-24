@@ -1,13 +1,9 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# 第一次尝试成功!
 
-[Edit on StackBlitz ⚡️](https://sli.dev/new)
+项目用slidev官网的编辑方法方便点。也许以后用熟练了可以自己直接新建。
 
-To start the slide show:
+编辑好后，直接download，然后用vscode打开。
 
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
+先npm install，然后npm run build，然后就可以npm run dev了。
 
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev on [documentations](https://sli.dev/).
+之后就可以在本地3030开始了。
